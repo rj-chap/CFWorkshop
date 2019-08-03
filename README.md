@@ -41,7 +41,7 @@ You will need to have 2 VMs ready to rock:
 You will need a Windows malware VM (10 preferred, 7+ will work).
 - If you do not have a Windows 10 malware analysis machine, please check out https://zeltser.com/free-malware-analysis-windows-vm/#step2
 - Speaking of MS products, **you're going to need (in order to follow along with VBA file debugging), a copy (evaluation version works fine) of MS Office 2016+**. Version doesn't *really* matter, but the more recent the better.
--- If you don't have an MS Office license, check out the MS Evaluation center for a copy of Office that you can use: https://www.microsoft.com/en-us/evalcenter/evaluate-office-365-proplus
+- If you don't have an MS Office license, check out the MS Evaluation center for a copy of Office that you can use: https://www.microsoft.com/en-us/evalcenter/evaluate-office-365-proplus
 - Python! You'll want to have Python installed (2.7.x preferred). I'll have an offline installer available on the USB drives should you need one (make sure you have that USB port available!)
 - Please install PDFStreamDumper: http://sandsprite.com/blogs/index.php?uid=7&pid=57
 
@@ -50,3 +50,7 @@ You will need a Windows malware VM (10 preferred, 7+ will work).
 You will want an up-to-date copy of the REMnux VM: https://remnux.org/
 
 - All the tools we need for REMnux are installed by default. Thus, you simply need a working VM
+
+### VMs available
+
+If you REALLY cannot prep for the workshop (and damn you if this is the case), again, I'll have 20 or so USB 3.0 drives available with VMs that you can use. Please note that the VMs will be around 10GB+. Even though they are USB 3.0 drives, it will take a while to copy the required files to get setup. So... you know. PREP dang you!
