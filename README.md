@@ -4,6 +4,8 @@ This repo contains the slides and files required for my DefCon 27 (2019) "Unders
 # Where's the GOOD stuff?
 In the days leading up to the workshop, this repo will be updated with a PowerPoint including step-by-step instructions for the workshop. Until that time, this README should suffice as a "you need these things!" sort of deal.
 
+**I will make the malware samples available on my Website on Monday, 2019/08/05. You can download the zip file I will make available ahead of class, or I will provide it on USB drives the day of the workshop.**
+
 # Pre-requisites -- Can I Kick It? (Yes, You Can!)
 
 This workshop will cover the file formats for both PDF and Office (e.g. docx) files. If you've never analyzed such a file for maliciousness, fear not! We'll be covering the basics. If you have programming/scripting experience, great. If not, don’t worry. If you have worked to deobfuscate code, fantastic. If not, meh.
@@ -42,8 +44,10 @@ You will need a Windows malware VM (10 preferred, 7+ will work).
 - If you do not have a Windows 10 malware analysis machine, please check out https://zeltser.com/free-malware-analysis-windows-vm/#step2
 - Speaking of MS products, **you're going to need (in order to follow along with VBA file debugging), a copy (evaluation version works fine) of MS Office 2016+**. Version doesn't *really* matter, but the more recent the better.
 - If you don't have an MS Office license, check out the MS Evaluation center for a copy of Office that you can use: https://www.microsoft.com/en-us/evalcenter/evaluate-office-365-proplus
-- Python! You'll want to have Python installed (2.7.x preferred). I'll have an offline installer available on the USB drives should you need one (make sure you have that USB port available!)
 - Please install PDFStreamDumper: http://sandsprite.com/blogs/index.php?uid=7&pid=57
+- A hex editor of your choice! A few good options are HxD and 010 Editor (commercial, BUT AWESOME)
+- e.g. HxD hex exditor: https://mh-nexus.de/en/hxd/
+- Notepad++: https://notepad-plus-plus.org/
 
 ## REMnux VM
 
