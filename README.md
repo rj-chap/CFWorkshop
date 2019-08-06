@@ -3,6 +3,7 @@ This repo contains the slides and files required for my DefCon 27 (2019) "Unders
 
 **The malware samples for this workshop are located at:**
 **https://incidentresponse.training/cfworkshop_samples.zip**
+- The zip file password is: dc27workshop
 
 # Pre-requisites -- Can I Kick It? (Yes, You Can!)
 
