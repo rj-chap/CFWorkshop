@@ -1,10 +1,8 @@
 # CFWorkshop
 This repo contains the slides and files required for my DefCon 27 (2019) "Understanding and Analyzing Carrier Files" Workshop. Get it gurl!
 
-# Where's the GOOD stuff?
-In the days leading up to the workshop, this repo will be updated with a PowerPoint including step-by-step instructions for the workshop. Until that time, this README should suffice as a "you need these things!" sort of deal.
-
-**I will make the malware samples available on my Website on Monday, 2019/08/05. You can download the zip file I will make available ahead of class, or I will provide it on USB drives the day of the workshop.**
+**The malware samples for this workshop are located at:**
+**https://incidentresponse.training/cfworkshop_samples.zip**
 
 # Pre-requisites -- Can I Kick It? (Yes, You Can!)
 
