@@ -5,6 +5,27 @@ This repo contains the slides and files required for my DefCon 27 (2019) "Unders
 **https://incidentresponse.training/cfworkshop_samples.zip**
 - The zip file password is: dc27workshop
 
+```
+remnux@remnux:~/cfworkshop$ ls
+1a73585dc90551822b772e3bab61a856a3ed8377b2e71326ce1b946a43cfa1f2
+3777e556ddbafa08d7dcb35876bc47ee1226a8ad7d014d94ec5c6f6fc191a34d
+62a83453d87810a25cf7ef7952f8cbed211064f2de4e7e39ddcff42c8c855759
+ad4a9c91b33217062c18b9945088150947cb127cd65962baa98fbd5c8eb8a18d
+dd55a7a66df1ab791cccb06ba0c7da9ae9f7670bee673b4ee2df4fd21909ca07
+f6e9515a3e2e9afc1a5ced7002ea19ceffab1bc2f7cc5cd4bbf86d22aa93057a
+remnux@remnux:~/cfworkshop$ zip -e cfworkshop_samples.zip *
+Enter password: 
+Verify password: 
+  adding: 1a73585dc90551822b772e3bab61a856a3ed8377b2e71326ce1b946a43cfa1f2 (deflated 44%)
+  adding: 3777e556ddbafa08d7dcb35876bc47ee1226a8ad7d014d94ec5c6f6fc191a34d (deflated 23%)
+  adding: 62a83453d87810a25cf7ef7952f8cbed211064f2de4e7e39ddcff42c8c855759 (deflated 17%)
+  adding: ad4a9c91b33217062c18b9945088150947cb127cd65962baa98fbd5c8eb8a18d (deflated 5%)
+  adding: dd55a7a66df1ab791cccb06ba0c7da9ae9f7670bee673b4ee2df4fd21909ca07 (deflated 40%)
+  adding: f6e9515a3e2e9afc1a5ced7002ea19ceffab1bc2f7cc5cd4bbf86d22aa93057a (deflated 4%)
+remnux@remnux:~/cfworkshop$ shasum -a 256 cfworkshop_samples.zip 
+60a52e7b8d9c3d571a4eb3277b0ab801bc96b829a1f9d5b3de44f15019af74a0  cfworkshop_samples.zip
+```
+
 # Pre-requisites -- Can I Kick It? (Yes, You Can!)
 
 This workshop will cover the file formats for both PDF and Office (e.g. docx) files. If you've never analyzed such a file for maliciousness, fear not! We'll be covering the basics. If you have programming/scripting experience, great. If not, don’t worry. If you have worked to deobfuscate code, fantastic. If not, meh.
