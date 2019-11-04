@@ -1,5 +1,5 @@
 # CFWorkshop
-This repo contains the slides and files required for my DefCon 27 (2019) "Understanding and Analyzing Carrier Files" Workshop. Get it gurl!
+This repo contains the slides and files required for my DefCon 27 (2019) and CactusCon 8 (2019) "Understanding and Analyzing Carrier Files" Workshop. Get it gurl!
 
 **The malware samples for this workshop are located at:**
 **https://incidentresponse.training/cfworkshop_samples.zip**
