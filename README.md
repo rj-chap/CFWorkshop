@@ -73,7 +73,8 @@ You will need a Windows malware VM (10 preferred, 7+ will work).
 
 You will want an up-to-date copy of the REMnux VM: https://remnux.org/
 
-- All the tools we need for REMnux are installed by default. Thus, you simply need a working VM
+- Please install ViperMonkey in REMnux: sudo -H pip install -U https://github.com/decalage2/ViperMonkey/archive/master.zip
+- Otherwise, you're solid! All others tools we'll be using are installed by default in REMnux
 
 ### VMs available
 
